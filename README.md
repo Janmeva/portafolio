@@ -26,7 +26,7 @@ El texto e la página web escrito en español, sin embargo las clases relacionad
 
 ## Contacto
 
-Desarrollado por: en Tecnolochicas PRO Summer Camp
+Desarrollado en: Tecnolochicas PRO Summer Camp
 
 Janeth Melendez 
 
