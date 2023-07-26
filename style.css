@@ -1,0 +1,72 @@
+
+#img-perfil{
+    width: 120px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+.bg-primary{
+    background-color: #69584a!important;
+}
+
+.software{
+    background-color: #cab29d!important;
+}
+
+.tecnolochicas{
+    background-color: #e4ccb7!important;
+}
+
+.idiomas{
+    background-color: #cab29d!important;
+}
+.nav-link{
+    color: #653208!important;
+}
+
+#proyecto-1{
+    background-image: url('imagenes/proyecto-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.carousel-item{
+    height: 400px;
+}
+.carousel-indicators [data-bs-target] {
+ background-color: #75573C;
+ height: 5px;
+}
+
+.carousel-caption{
+    color: rgb(51, 68, 49);
+}
+
+.bi-github{
+    font-size: 2rem;
+    color: #ca9d75;
+}
+
+.bi-linkedin{
+    font-size: 2rem;
+    color: #ca9d75;
+}
+
+.bi-instagram{
+    font-size: 2rem;
+    color: #ca9d75;
+}
+
+.filtros{
+    background-color: #d6b9a0;
+}
+
+.Contacto{
+    background-color: #69584a;
+}
+
+.codigo{
+    
+}
